@@ -1,0 +1,16 @@
+{
+  "name": "knex_databases",
+  "version": "1.0.0",
+  "description": "Crud_Praveen",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aadarsh",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "knex": "^2.1.0",
+    "mysql": "^2.18.1"
+  }
+}
